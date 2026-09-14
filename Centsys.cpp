@@ -10,7 +10,7 @@ class ADJUSTMENTS{
 		bool switchCase(int void_Digit);
 		std::string	url = PLAYLIST();
 };
-bool ADJUSTMENTS::switchCase(int void_Digit){
+bool ADJUSTMENTS::switchCase(int& void_Digit){
 	std::cout<<"you have opened ADJUSTMENTS, assess whatever you need..." << std::endl;
 	std::cout<<"	||		" << std::endl; 
 	std::cout<<"adjusting proper configs opens the //[CENTURYSYS]// and its full use." << std::endl;
@@ -46,6 +46,9 @@ class CENTURY{
 	public:
 	unsigned int ENTRY;
 	bool T_or_F = false;
+
+void XYZ()
+
 	void INITIATION(){
 		std::cout<<" IN USE OF CENTURY STRUCT,  PLEASE SELECT AN ENTRY ...  "<< std::endl;
 		do{
@@ -68,9 +71,15 @@ class CENTURY{
 			}
 		} while (T_or_F != true);
 	std::cout<<"if properly configured... try running XYZ()..." << std::endl;
-		
 	}
+std::cout<<"OUTSIDE OF INITIATION FUNCTION" << std::endl;
+
 };
+
+void CENTURY::XYZ(){
+
+}
+
 
 int main(){
 	std::cout<<"RUNNING INITIATION() " << std::endl;
