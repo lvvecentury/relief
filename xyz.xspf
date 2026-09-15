@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+  <title>Playlist 1</title>
+  <trackList>
+    <track>
+      <location>Downloads/1. P6nk - 2013.opus</location>
+      <title>2013</title>
+      <creator>P6nk</creator>
+      <album>lÿfe</album>
+      <duration>82521</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/2. P6nk - rally ft.opus</location>
+      <title>rally ft</title>
+      <creator>P6nk</creator>
+      <album>lÿfe</album>
+      <duration>104321</duration>
+      <trackNum>2</trackNum>
+    </track>
+    <track>
+      <location>Downloads/3. P6nk - done for ft kynlary.opus</location>
+      <title>done for ft kynlary</title>
+      <creator>P6nk</creator>
+      <album>lÿfe</album>
+      <duration>56921</duration>
+      <trackNum>3</trackNum>
+    </track>
+    <track>
+      <location>Downloads/4. P6nk - they will never see you here.opus</location>
+      <title>they will never see you here</title>
+      <creator>P6nk</creator>
+      <album>lÿfe</album>
+      <duration>48861</duration>
+      <trackNum>4</trackNum>
+    </track>
+    <track>
+      <location>Downloads/1. P6nk - foe%C5%82.opus</location>
+      <title>foeł</title>
+      <creator>P6nk</creator>
+      <album>iyïri hin</album>
+      <duration>113381</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/2. P6nk - em%C3%AFly -iy%C3%AFri hin folge m%C3%AFr.opus</location>
+      <title>emïly |iyïri hin folge mïr</title>
+      <creator>P6nk</creator>
+      <album>iyïri hin</album>
+      <duration>77681</duration>
+      <trackNum>2</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Miss Papaya - Hero %28Extended%29.flac</location>
+      <title>Hero (Extended)</title>
+      <creator>Miss Papaya</creator>
+      <album>Hero</album>
+      <duration>267293</duration>
+      <trackNum>4</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Jack Stauber - Buttercup.flac</location>
+      <title>Buttercup</title>
+      <creator>Jack Stauber</creator>
+      <album>Pop Food</album>
+      <duration>208026</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/SHALLOWPIE - Oh My Little Baby Boy.flac</location>
+      <title>Oh My Little Baby Boy</title>
+      <creator>ADZXRY; KVSHX; SHALLOWPIE</creator>
+      <album>Oh My Little Baby Boy</album>
+      <duration>210896</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Baracuda - Ass Up %28DJ Ten Partytime Remix%29.flac</location>
+      <title>Ass Up (DJ Ten Partytime Remix)</title>
+      <creator>Baracuda</creator>
+      <album>Ass Up</album>
+      <duration>312173</duration>
+      <trackNum>5</trackNum>
+    </track>
+    <track>
+      <location>Downloads/ALIC3E - Neoperreo %28Slowed%29.flac</location>
+      <title>Neoperreo (Slowed)</title>
+      <creator>Secret Society; ALIC3E</creator>
+      <album>Neoperreo (Slowed)</album>
+      <duration>140296</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/SHALLOWPIE - Oh My Little Baby Boy.flac</location>
+      <title>Oh My Little Baby Boy</title>
+      <creator>ADZXRY; KVSHX; SHALLOWPIE</creator>
+      <album>Oh My Little Baby Boy</album>
+      <duration>210896</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Edward Skeletrix - Rapp%C3%A9ur FW 24 SS 24.flac</location>
+      <title>Rappéur FW 24 SS 24</title>
+      <creator>Edward Skeletrix</creator>
+      <album>Skeletrix Language</album>
+      <duration>250775</duration>
+      <trackNum>3</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Vika Jigulina - Stereo Love.flac</location>
+      <title>Stereo Love</title>
+      <creator>Edward Maya; Vika Jigulina</creator>
+      <album>Stereo Love</album>
+      <duration>248667</duration>
+      <trackNum>2</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Steven Roho - Club Bizzare.flac</location>
+      <title>Club Bizzare</title>
+      <creator>Steven Roho</creator>
+      <album>Club Bizzare</album>
+      <duration>156393</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Steve Edwards - World%2C Hold On %28FISHER Rework%29.flac</location>
+      <title>World, Hold On (FISHER Rework)</title>
+      <creator>Bob Sinclar; Steve Edwards</creator>
+      <album>World, Hold On (FISHER Rework)</album>
+      <duration>178305</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Men At Work - Who Can It Be Now_.flac</location>
+      <title>Who Can It Be Now?</title>
+      <creator>Men At Work</creator>
+      <album>Business As Usual</album>
+      <duration>201293</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/kiss me%21.mp3</location>
+      <title></title>
+      <duration>130743</duration>
+    </track>
+    <track>
+      <location>Downloads/Gloria Gaynor - I Will Survive.flac</location>
+      <title>I Will Survive</title>
+      <creator>Gloria Gaynor</creator>
+      <album>20th Century Masters: The Millennium Collection: Best Of Gloria Gaynor</album>
+      <duration>198066</duration>
+      <trackNum>11</trackNum>
+    </track>
+    <track>
+      <location>Downloads/dreamsoda - Club Bizzare %28slowed remix%29.flac</location>
+      <title>Club Bizzare (slowed remix)</title>
+      <creator>dreamsoda</creator>
+      <album>Club Bizzare (slowed remix)</album>
+      <duration>229290</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Studio Killers - Jenny %28I Wanna Ruin Our Friendship%29.flac</location>
+      <title>Jenny (I Wanna Ruin Our Friendship)</title>
+      <creator>Ian Asher; Studio Killers</creator>
+      <album>Jenny (I Wanna Ruin Our Friendship)</album>
+      <duration>161164</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Ocelot - pretty girl give me clean kisses %403c876.flac</location>
+      <title>pretty girl give me clean kisses @3c876</title>
+      <creator>Ocelot</creator>
+      <album>pretty girl give me clean kisses @3c876</album>
+      <duration>72882</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Garage Girl - Club Bizzare %28Slowed%29.ogg</location>
+      <title>Club Bizzare (Slowed)</title>
+      <creator>Garage Girl</creator>
+      <album>Club Bizzare</album>
+      <duration>132341</duration>
+      <trackNum>2</trackNum>
+    </track>
+    <track>
+      <location>Downloads/glosuka - P4in.flac</location>
+      <title>P4in</title>
+      <creator>glosuka</creator>
+      <album>P4in</album>
+      <duration>216879</duration>
+      <trackNum>1</trackNum>
+    </track>
+    <track>
+      <location>Downloads/A Touch Of Class - My Heart Beats Like A Drum %28Dam Dam Dam%29.flac</location>
+      <title>My Heart Beats Like A Drum (Dam Dam Dam)</title>
+      <creator>A Touch Of Class</creator>
+      <album>Planet Pop</album>
+      <duration>222267</duration>
+      <trackNum>3</trackNum>
+    </track>
+    <track>
+      <location>Downloads/Studio Killers - Jenny %28I Wanna Ruin Our Friendship%29%281%29.flac</location>
+      <title>Jenny (I Wanna Ruin Our Friendship)</title>
+      <creator>Studio Killers</creator>
+      <album>Jenny (I Wanna Ruin Our Friendship)</album>
+      <duration>215280</duration>
+      <trackNum>1</trackNum>
+    </track>
+  </trackList>
+</playlist>
